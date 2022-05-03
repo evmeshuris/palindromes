@@ -1,0 +1,16 @@
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.deps.json
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.dll
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.pdb
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.csproj.AssemblyReference.cache
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.AssemblyInfoInputs.cache
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.AssemblyInfo.cs
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.csproj.CoreCompileInputs.cache
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.dll
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/refint/Palindromes.dll
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.pdb
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/ref/Palindromes.dll
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.runtimeconfig.json
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/bin/Debug/net5.0/Palindromes.runtimeconfig.dev.json
+/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/obj/Debug/net5.0/Palindromes.genruntimeconfig.cache

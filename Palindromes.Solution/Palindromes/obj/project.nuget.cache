@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D4jAX2B5oDqrGZlLVtcRSOOz6W/SrP7NDCcAI8sZm3XuZFF2pD184ZWxSc+Oz5J6UiD+2gPmIK13aHabewDiMQ==",
+  "success": true,
+  "projectFilePath": "/Users/evgeniya/Desktop/epicodus/week6/palindrome/Palindromes.Solution/Palindromes/Palindromes.csproj",
+  "expectedPackageFiles": [
+    "/Users/evgeniya/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/evgeniya/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/evgeniya/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
